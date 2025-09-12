@@ -131,17 +131,6 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
   
 ![Jyothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-CY&show_icons=true&theme=radical)  
 
-Language Distribution (Based on Your Projects)
-
-https://img.shields.io/badge/Python-52%2525-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-18%2525-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-12%2525-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Jupyter_Notebook-10%2525-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-https://img.shields.io/badge/HTML/CSS-5%2525-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/C++-3%2525-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyothi-CY&theme=radical&fire=FF0D0D&currStreakNum=FF0D0D)  
-
 </div>
 
 ---

@@ -130,7 +130,7 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 <div align="center">
   
 ![Jyothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-CY&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-CY&layout=compact&theme=radical&langs_count=8&hide=html,css)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-CY&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyothi-CY&theme=radical&fire=FF0D0D&currStreakNum=FF0D0D)  
 
 </div>

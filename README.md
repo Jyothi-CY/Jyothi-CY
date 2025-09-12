@@ -146,12 +146,14 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 - **NullClass** - Data Analyst Training Certification 
 ---
 
+<!--
 ## 📈 GitHub Activity
 
-<!-- GitHub Readme Activity Graph -->
+<!-- GitHub Readme Activity Graph 
 ![Jyothi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyothi-CY&theme=react-dark&hide_border=true&area=true)
 
 ---
+-->
 
 ## 📫 Let's Connect
 

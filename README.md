@@ -121,7 +121,7 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -129,7 +129,7 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 
 <div align="center">
   
-![Jyothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-CY&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Jyothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-CY&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-CY&layout=compact&theme=radical&langs_count=8&hide=html,css)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyothi-CY&theme=radical&fire=FF0D0D&currStreakNum=FF0D0D)  
 

@@ -2,16 +2,16 @@ Hi, I'm Jyothirmayee Siva Gayatri Nisamkarao
 
 **`Cybersecurity Student | Security Researcher | Machine Learning | Full-Stack Developer | Learning BlockChain and Cloud Security`**
 
-
+```text
 Passionate about building secure systems, exploring decentralized technologies, and creating impactful web applications.
 
-🎓 **B.Tech in Computer Science & Engineering (Cybersecurity Specialization)** at IIIT Kottayam 
+🎓 B.Tech in Computer Science & Engineering (Cybersecurity Specialization) at IIIT Kottayam 
 💼 Software Development Intern at Zupaloop Private Limited 
-💻 Passionate about **Software Development, Cybersecurity, and Data Analytics** 
-🚀 Currently working as **Software Developement Intern at Zupaloop priv Ltd**
-🌱 I’m currently exploring **BlockChain Technology** and **Cloud Security**
+💻 Passionate about Software Development, Cybersecurity, and Data Analytics 
+🚀 Currently working as Software Developement Intern at Zupaloop priv Ltd
+🌱 I’m currently exploring BlockChain Technology and Cloud Security
 🔐 Cybersecurity Student actively developing protection systems
-
+```
 
 
 ---

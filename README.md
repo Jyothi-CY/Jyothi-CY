@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Jyothirmayee Siva Gayatri Nisamkarao  
 
----
+<!---
 🎓 **B.Tech in Computer Science & Engineering (Cybersecurity Specialization)** at IIIT Kottayam  
 💻 Passionate about **Software Development, Cybersecurity, and Data Analytics**  
 🚀 Currently working as **Software Developement Intern at Zupaloop priv Ltd**  
 🌱 I’m currently exploring **BlockChain Technology** and **Cloud Security**
----
+--->
 
 ## 🏆 Experience
 

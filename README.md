@@ -37,7 +37,7 @@ Passionate about building secure systems, exploring decentralized technologies, 
 ## 💻 Featured Projects
 
 ### **🔒 DRM Protected Media Sharing System** 
-Python, Cryptography, Flask, SQLite, AES-128  
+Python, Cryptography, Flask, FastAPI, Azure, AES-128  
 - Developed end-to-end encrypted media sharing platform with digital rights management
 - Implemented secure key exchange protocols preventing unauthorized access
 - Reduced content leakage by 60% through robust encryption implementation

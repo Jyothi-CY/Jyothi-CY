@@ -124,8 +124,10 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 
 ---
 
+<! --
 ## 📊 GitHub Analytics
 
+<! -- 
 <div align="center">
   
 ![Jyothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyothi-CY&show_icons=true&theme=radical)  
@@ -133,6 +135,7 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 </div>
 
 ---
+-->
 
 ## 📜 Certifications & Achievements
 

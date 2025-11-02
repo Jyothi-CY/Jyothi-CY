@@ -9,7 +9,7 @@ Passionate about building secure systems, exploring decentralized technologies, 
 💻 Passionate about Software Development, Cybersecurity, and Data Analytics 
 🌱 I’m currently exploring BlockChain Technology and Cloud Security
 🔐 Cybersecurity Student actively developing protection systems
-💼 ex-SDE at Zupaloop Private Limited 
+💼 Ex-SDE at Zupaloop Private Limited 
 ```
 
 
